@@ -1,6 +1,6 @@
 # Demodam
 
-Trough the Demodam project we try to provide insight into the workings of the Common Ground ecosystem and specifically working with multiple applications connected through common registries.
+Trough the Demodam project we try to provide insight into the workings of the [Common Ground](https://commonground.nl/) ecosystem and specifically working with multiple applications connected through common registries.
 
 Resources:
 
