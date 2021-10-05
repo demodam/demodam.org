@@ -36,7 +36,7 @@ Open group that works in a community style (there is likely to be a core team, t
 * Tries to find ambassadors at several levels
 * Helps organize hackathons
 * Social media, promotions, coverage, etc.
-* **Members**: Alba Roza (team lead), Edo Plantinga, Caroline?, Harrie Kuipers?, Ruud de Vries?
+* **Members**: Edo Plantinga, Caroline?, Harrie Kuipers?, Ruud de Vries?
 
 ### Technical action team
 

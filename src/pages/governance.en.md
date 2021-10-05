@@ -56,10 +56,10 @@ If core team members cannot reach consensus informally, the question at hand wil
 The current core team members are:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/)  (core team lead)
 * [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#technical-action-team) lead)
-* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#communications-action-team) lead)
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * [Lazo Bozarof](https://www.linkedin.com/in/lazobozarov/)
 * Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#user-centricity-action-team) team lead
+* Vacancy: [Communications Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#communications-action-team) lead)
 
 ### Way of working
 The core team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda will be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the core team can be found on the [core team project board](https://github.com/demodam/demodam.org/projects/2).
