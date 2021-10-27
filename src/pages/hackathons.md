@@ -13,7 +13,7 @@ In deze hackathon voegen we weer meer producten diensten toe aan demodam.nl en w
 * **NL Design System** houdt tijdens deze week een Onboarding Week, waarbij teams snel op vlieghoogte gebracht worden. Is er straks een theme switcher op Demodam.nl, waarbij je met een druk op de knop een andere huisstijl kunt laten zien? 
 * Tijdens de hackathon wordt **doorontwikkelbudget toegekend vanuit het innovatiebudget** van het ministerie van BZK, voor die ideeën die het meeste toevoegen aan de Common Ground community. 
 * Ook met **sessies voor een breed publiek**! Mede georganiseerd door VNG Realisatie. Houd deze pagina in de gaten voor het programma. 
-* De hackathon is deels online, deels bij Wigo4IT ([boven Den Haag Centraal](https://goo.gl/maps/TcQxJfH5MTDe7BBA7)) en deels bij VNG Realisatie ([nabij Utrecht Centraal]https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.gf9e1c48675_2_0).  
+* De hackathon is deels online, deels bij Wigo4IT ([boven Den Haag Centraal](https://goo.gl/maps/TcQxJfH5MTDe7BBA7)) en deels bij VNG Realisatie ([nabij Utrecht Centraal](https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.gf9e1c48675_2_0).  
 
 Lees meer over de [doelen en praktische informatie](https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.p). 
 
