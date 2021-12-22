@@ -2,6 +2,9 @@
 template: "default"
 ---
 
+# Hackathons in 2022: hou deze pagina in de gaten
+In 2022 komen er nog twee hackathons: een kleinere gevolgd door een grotere (1 week). Voor de grote hackathon werken we samen met diverse partijen zoals VNG, VDP, Dimpact en diverse gemeenten. 
+
 # 1-5 november 2021 - Demodam Hackathon II
 
 ## Programma vrijdag 5 november - Demos en uitreiking doorontwikkeling pitches
