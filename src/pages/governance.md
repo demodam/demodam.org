@@ -4,7 +4,7 @@ template: "default"
 
 # CONCEPT: Governance voor Demodam
 
-Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worden. De eerste versie van de governance wordt vastgesteld na de eerste keer dat het kernteam bijeen komt. 
+Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worden. De eerste versie van de governance wordt vastgesteld na de eerste keer dat het kernteam bijeen komt.
 
 ## Doelen van Demodam
 
@@ -15,7 +15,7 @@ Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worde
 
 ## Demodam-principes
 
-* Onze community is **gastvrij en respectvol** zoals vermeld in onze CODE_OF_CONDUCT.md. Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
+* Onze community is **gastvrij en respectvol** zoals vermeld in onze [code of conduct](CODE_OF_CONDUCT.md). Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
 * Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten worden openbaar gedaan.
 * Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen en ontwerpprincipes.
 * Demodam is **open source**.
@@ -57,11 +57,11 @@ Indien kernteam niet informeel tot overeenstemming kunnen komen, wordt de betref
 ### Leden van het kernteam
 De huidige leden van het kernteam zijn:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/) (kernteamleider)
-* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING. MD#technisch-actie-team) leiden)
-* [Alba Roza](https://www.linkedin.com/in/albaroza) (ook [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD# communicatie-actie-team) leiden)
+* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://demodam.org/contributing/) leiden)
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (ook [Communicatie-actieteam](https://demodam.org/contributing/) leiden)
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * [Lazo Bozarof](https://www.linkedin.com/in/lazobozarov/)
-* Vacature: [User Centricity](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#user-centricity-action-team) teamleider
+* Vacature: [User Centricity](https://demodam.org/contributing/) teamleider
 
 ### Manier van werken
 Het kernteam komt regelmatig bijeen. Hun agenda omvat een herziening van de technische roadmap en kwesties die in een impasse verkeren. Het is niet de bedoeling van de agenda om alle patches te herzien of goed te keuren. Dit gebeurt voornamelijk via het proces dat wordt beschreven in CONTRIBUTING.md. Vergaderingen en hun agenda worden aangekondigd op de [mailinglijst](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) en op [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). De actiepunten en agenda's van het kernteam zijn te vinden op het [kernteam project board](https://github.com/demodam/demodam.org/projects/2).

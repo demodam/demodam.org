@@ -13,3 +13,10 @@ De volgende organisaties maken momenteel deel uit van het demodam-ecosysteem, al
 |[Kadaster](https://www.kadaster.nl/)|[kadaster.demodam.nl](https://kadaster.demodam.nl)|
 |[Foundation for Public Code](https://publiccode.net/)|n.a.|
 |[Dimpact](https://www.dimpact.nl/)|[dimpact.demodam.nl](https://dimpact.demodam.nl)|
+|[Wigo4it](https://www.wigo4it.nl/)|n.a|
+|[VNG-Realisatie](https://www.vngrealisatie.nl/)|n.a|
+|[VrijBRP](https://vrijbrp.nl/)|n.a|
+|[NL Design System](https://designsystem.gebruikercentraal.nl/)|n.a|
+|[Open ZaakBrug]()|n.a|
+|[NLX](https://nlx.io/)|n.a|
+|[Kodision](https://www.kodision.nl/)|n.a|

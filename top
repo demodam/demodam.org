@@ -1,0 +1,527 @@
+[33mcommit a71d458eb82c5d16f6c90f0f0e140c23e8191973[m[33m ([m[1;36mHEAD -> [m[1;32mclean-up-master[m[33m, [m[1;31morigin/clean-up-master[m[33m)[m
+Author: Matthijs <matthijsham@gmail.com>
+Date:   Sun Oct 3 16:17:37 2021 +0200
+
+    Contributing.md was behind Contributing.en.md. Translated part of the english text so the Dutch page is now in synch with the english page
+
+[33mcommit b02f76f17267ec9c8c4a1f80fb61a1bae6b8d73d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Sep 20 11:07:41 2021 +0200
+
+    added next hackathon
+
+[33mcommit 83de9addcb22e44740c1856edd185029397c35b7[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Sep 20 11:06:14 2021 +0200
+
+    Added next hackathon date
+
+[33mcommit 6973b26de5a7ab9a966919de243b6387273c6c94[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Sep 10 10:37:04 2021 +0200
+
+    Add link to slack
+
+[33mcommit e47b38832b3589c6a33585c0d2c5d0caae483e3c[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Sep 10 10:34:49 2021 +0200
+
+    Add link to how to join as an org
+
+[33mcommit 985b755ab1887d899eb271d837d2cf09a7ddf003[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Thu Aug 19 17:36:08 2021 +0200
+
+    Minor content change
+
+[33mcommit 80513352b4e483fdf3efafff4758ef8cef358d0b[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Wed Aug 18 15:37:41 2021 +0200
+
+    Added stuff about the open community
+    
+           <p>Demodam wordt gemaakt en onderhouden door de Common Ground community, bestaande uit mensen en organisaties vanuit zowel de overheid als het bedrijfsleven. De Foundation for Public Code ziet erop toe dat alle partijen gelijkwaardig zijn. Iedereen is welkom om bij te dragen.
+                </p>
+
+[33mcommit 1a8c74169a68de8a6974f6ece6521efdf10f6506[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Aug 16 10:35:35 2021 +0200
+
+    Minor content fix
+
+[33mcommit 4938b30932860262592e6159befa3c8034ad2cc4[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 16 09:14:31 2021 +0200
+
+    Translated to Dutch
+
+[33mcommit ec6afe238d793698e490c71270d49b3da9a42cff[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:17:36 2021 +0200
+
+    Added links to hackathon page 2x
+
+[33mcommit 67188f3bf81f460d03f75c7da4e766262d781119[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:15:36 2021 +0200
+
+    Rename hackathon.md to hackathons.md
+
+[33mcommit 86aefbd8c0792d3c9b90693ac3ae598c6d02313e[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:15:13 2021 +0200
+
+    Rename hackathon.en.md to hackathons.en.md
+
+[33mcommit 631708f04fa925c83f4534c9bd4927145a7fe9e5[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:14:21 2021 +0200
+
+    Initial commit. Sorta
+
+[33mcommit 23963df8ad16f9feda2dbf9988f1e07e2f1b6deb[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:13:25 2021 +0200
+
+    Removed outdated information
+
+[33mcommit 7bf455c1da47064c99cb8bece735255691b373ab[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:09:14 2021 +0200
+
+    Removed placeholder text and core team members
+
+[33mcommit fff38092bbc51cf698cc03f44a8ae24d20c0bbff[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:08:11 2021 +0200
+
+    Removed placeholder text & core team members
+    
+    Core team members removed to prevent double bookkeeping
+
+[33mcommit 8250f47bffb999a0fd5b619a180b18de2aacc47b[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:05:34 2021 +0200
+
+    Changed steering team to core team
+
+[33mcommit fa03c93a44f5ea5cfb5972b69c85f84e90c30ffe[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 22:04:44 2021 +0200
+
+    Changed steering team to core team
+    
+    The name was confusing
+
+[33mcommit dcc87673788ebf0326ce2aad0bc14b4427cdc854[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 21:58:34 2021 +0200
+
+    Document status is draft
+    
+    Added an explanation
+
+[33mcommit 8a87ca4559cf273b463d75100fb07d30a8d03523[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 21:54:03 2021 +0200
+
+    Changed stuurteam to kernteam
+
+[33mcommit b891f5454353156feadcff5b9eab8e2946ac174b[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 21:45:12 2021 +0200
+
+    Grammar changes
+
+[33mcommit fa362fec2191a3a0bc5acce04f0034a488bfcc23[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jul 12 21:40:58 2021 +0200
+
+    Grammatica
+
+[33mcommit 2d7bb82f3653eaefd107fcdf47d2295671ae611f[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 13:00:17 2021 +0200
+
+    Updated calendar
+
+[33mcommit f94bb326d87e45000d6da21b82df56ef212599ea[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:40:35 2021 +0200
+
+    Added calendar
+
+[33mcommit f11b7b55f7c2bb47d0161581ca79e725a6069bc9[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:21:15 2021 +0200
+
+    Google presentatie link
+
+[33mcommit da9cb26f3f271038a32ad92646b60e6521b1feb9[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:18:43 2021 +0200
+
+    hmmmmm
+
+[33mcommit ac565eea59e3e983b797b4e0153002f3a09b3e5d[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:16:14 2021 +0200
+
+    link check
+
+[33mcommit bbc41a6b5184dd8f976f7dcada199327f5a0d2b2[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:13:45 2021 +0200
+
+    List item check
+
+[33mcommit 541035ab65bd13c4f5a044271df320c714ab9598[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:10:55 2021 +0200
+
+    Query parameter test
+
+[33mcommit 2f6f63e0fd8671efa2e14c56f829b8d8e89247a6[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:07:45 2021 +0200
+
+    Bit more text
+
+[33mcommit ac1176891a30ee668821116e9b8fc7107ee5debd[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:05:33 2021 +0200
+
+    Less text
+
+[33mcommit bd43cc9c7e9d4d1103b6f78e7fe1bdab3c0d0b84[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 11:01:26 2021 +0200
+
+    Test
+
+[33mcommit c627c295d862f55ff9a403fcdae6408d45c8fcbc[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 10:53:33 2021 +0200
+
+    Added a hackathon page
+
+[33mcommit 2923134de980d564cb9deaf24876ad373f5e6acc[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jul 5 10:33:49 2021 +0200
+
+    Swiths te joining page to contributing
+
+[33mcommit 69a0e8f774d4804e8ddeab30747dbdc836c37536[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 13:33:42 2021 +0200
+
+    Change ONTWERP to CONCEPT
+
+[33mcommit 5d9623ec0e2c79176f086f873fff005f0d470be0[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 13:10:03 2021 +0200
+
+    Update benefit statements
+
+[33mcommit 7e01502c9ed196dac2f408ba9a7b8b234f42d196[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 12:54:21 2021 +0200
+
+    Adding home menu item
+    
+    Let's see what this does
+
+[33mcommit 928e95f9e79a726a519cc794944c071bd5a0bd3c[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 12:44:25 2021 +0200
+
+    Remove ambassadors news item
+    
+    ... until we have ambassadors. Fixes #56
+
+[33mcommit 78babd13287bf3e748e0ccd767a027aa523796fc[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 12:42:48 2021 +0200
+
+    Remove news section
+    
+    We will blog on commonground.nl. Fixes #72
+
+[33mcommit ad582122646df481001fa459e3d665a16119e2a8[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Fri Jul 2 12:37:51 2021 +0200
+
+    Create CONTRIBUTING.NL.MD
+
+[33mcommit 7ff6d56e90da71baf3821359ff7257047b1537a9[m[33m ([m[1;31morigin/hackathon-news[m[33m)[m
+Author: Edo Plantinga <47494631+EdoPlantinga@users.noreply.github.com>
+Date:   Mon Jun 28 10:22:51 2021 +0200
+
+    Added link to hackathon prep doc
+
+[33mcommit fb1cf9c6d24b1efd8b126ac652eb5d86c07d9a2d[m
+Merge: b743157 d2c08dc
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 15:11:42 2021 +0200
+
+    Merge pull request #70 from demodam/felixfaassen-patch-1
+    
+    Update README.md
+
+[33mcommit d2c08dcc1f487a3b399f0febb025644d527fe315[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 15:05:25 2021 +0200
+
+    Update README.md
+    
+    typo
+
+[33mcommit b7431573674537932f987be26a95079391b48333[m
+Merge: ade2bc8 76f84d5
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 15:04:30 2021 +0200
+
+    Merge pull request #69 from demodam/felixfaassen-update-readme
+    
+    Update README.md
+
+[33mcommit 76f84d58489ac9cca32ac8212aa84f66513d611a[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 14:40:42 2021 +0200
+
+    Update README.md
+    
+    added information on build, and test is configured and how to make changes to the website
+
+[33mcommit ade2bc8610aec6af9b1b42fe999421508f5a281e[m
+Merge: d0db0f7 cdab474
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 14:24:28 2021 +0200
+
+    Merge pull request #68 from demodam/felixfaassen-ghaction-trigger
+    
+    Update deploy.yml
+
+[33mcommit cdab474eddf23b6572b931c2c65429ce77d0f327[m[33m ([m[1;31morigin/felixfaassen-ghaction-trigger[m[33m)[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 14:20:33 2021 +0200
+
+    Update deploy.yml
+    
+    Deploy will only trigger when pushes are being made on main, the default branch
+
+[33mcommit d0db0f7185c186552fc233ec2dd251ba445501b3[m
+Merge: c9a74cb 1275a94
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 14:16:10 2021 +0200
+
+    Merge pull request #67 from demodam/develop
+    
+    Merge develop into main
+
+[33mcommit 1275a949f6973feaa6cc746df6e173ee53b0468d[m
+Merge: d2c3dda 76d69b9
+Author: Alba Roza <alba@publiccode.net>
+Date:   Fri Jun 25 14:07:40 2021 +0200
+
+    Merge pull request #63 from demodam/alba-content
+    
+    Add content about social media and community members details
+
+[33mcommit 76d69b9c70b95b388b4b0b30b502a8dda1e6ca95[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 13:36:06 2021 +0200
+
+    Fix links. When linking from markdown pages use full URLS not relatives
+
+[33mcommit 5ee7c28aad087611697f547180c41b65e4fd7c71[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 25 13:35:36 2021 +0200
+
+    removed TODO text in NL
+
+[33mcommit c9a74cb09fd53a6376900cad4169bf4c773c1a47[m
+Merge: 8e75a18 d2c3dda
+Author: Ruben van der Linde <rubenvdlinde@gmail.com>
+Date:   Fri Jun 25 11:03:31 2021 +0200
+
+    Merge pull request #66 from demodam/develop
+    
+    This is a hard build fix
+
+[33mcommit d2c3dda63423fd3f04a573e48a2b08379578bd45[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Fri Jun 25 10:51:25 2021 +0200
+
+    Branche fix
+
+[33mcommit 0e91a7cacaba5d86a58b354514a30d1e5f97e591[m
+Author: Alba Roza <alba@publiccode.net>
+Date:   Tue Jun 22 19:03:27 2021 +0200
+
+    Updated current steering team in Dutch
+
+[33mcommit a96371a4e4d32834e0e12f6c542a098cd59a6b3b[m
+Author: Alba Roza <alba@publiccode.net>
+Date:   Tue Jun 22 18:57:55 2021 +0200
+
+    Updated details of core group
+
+[33mcommit 95c4d57335e79f50c6e67e92b3bd27454459157c[m
+Author: Alba Roza <alba@publiccode.net>
+Date:   Tue Jun 22 18:41:08 2021 +0200
+
+    Update contact in Dutch
+    
+    Social media and mailing list information
+
+[33mcommit bd70df0e4d33819980f9b1626f5fdd233ecfb42c[m
+Author: Alba Roza <alba@publiccode.net>
+Date:   Tue Jun 22 18:35:23 2021 +0200
+
+    Update contact details
+    
+    Social media and mailing lists
+
+[33mcommit 8b64210c3dbc5c9332a8819ea3eab27b5fdaa594[m
+Merge: 6b74785 9faf973
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Mon Jun 21 12:42:04 2021 +0200
+
+    Merge branch 'feature-hackathon' into develop
+
+[33mcommit 9faf973e8f8b396696310727de28fcfb9e2fa59e[m[33m ([m[1;31morigin/feature-hackathon[m[33m)[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Sun Jun 20 12:49:42 2021 +0200
+
+    Moved organization pages from docs to site
+    
+    And added an participants list
+
+[33mcommit 9397bc8ebfa79b4b4d898d6c40cf85b2e254df3b[m
+Author: Ruben van der Linde <ruben@conduction.nl>
+Date:   Sun Jun 20 12:16:20 2021 +0200
+
+    Added the hackathon to the roadmap
+
+[33mcommit 6b747852cdfbc41f9884a04cc0de50672545f73a[m[33m ([m[1;31morigin/hackathon-update[m[33m)[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Sat Jun 19 11:32:33 2021 +0200
+
+    Update governance.en.md
+    
+    fix links to point to default branch 'develop'
+
+[33mcommit 3bed261d939358d8687f65fa9785bc86f1debaf5[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Sat Jun 19 11:30:49 2021 +0200
+
+    Update governance.md
+    
+    fix links to point to default branch 'develop'
+
+[33mcommit a0584ea44b676d74f2fb22027cf9aca35025a3c1[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Sat Jun 19 11:27:35 2021 +0200
+
+    Update GOVERNANCE.md
+    
+    fix links pointing to other MD in correct branch
+
+[33mcommit d74a6b61d6601a3e23e0833c0bf33b2b06d43e5f[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 16:05:21 2021 +0200
+
+    Update test.yml
+    
+    add opt out telemetry gatsby
+
+[33mcommit 2e91a035936a4afc510ca3cf3bf6bd9649ea5f69[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 16:01:26 2021 +0200
+
+    Update deploy.yml
+    
+    opt out telemetry using env variable
+
+[33mcommit 50ca63bc73b3e8c88cedcf969204834ef01f626b[m
+Merge: c4cccf4 ef340e6
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:56:56 2021 +0200
+
+    Merge pull request #53 from demodam/felixfaassen-patch-1
+    
+    Update deploy.yml
+
+[33mcommit ef340e66f68995c58f7acd61daad51e33a782509[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:54:49 2021 +0200
+
+    Update deploy.yml
+    
+    test opt out telemetry
+
+[33mcommit c4cccf4d26c99ce5520fb739b040bdce432aec37[m
+Merge: a4f751c f5e9926
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:45:59 2021 +0200
+
+    Merge pull request #52 from demodam/felixfaassen-disable-telemetry
+    
+    Update deploy.yml hotfix
+
+[33mcommit f5e992626dc149cde9f8eb0ae7795587c4d03d8f[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:43:55 2021 +0200
+
+    Update deploy.yml
+    
+    pass arguments to gatsby to disable telemetry
+
+[33mcommit a4f751ca99bdb8d614ff2fb5cbdaaf0b7abed21b[m
+Merge: 8113694 7deb8d3
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:39:43 2021 +0200
+
+    Merge pull request #51 from demodam/felixfaassen-patch-1
+    
+    Add deploy badge
+
+[33mcommit 7deb8d31c403e8cbf1580123d280a182540dfca0[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:37:56 2021 +0200
+
+    Update test.yml
+    
+    change action trigger
+
+[33mcommit fb00882ff8bd4253a60ad2ccf89f8e98a69947db[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:36:42 2021 +0200
+
+    Update deploy.yml
+    
+    change deploy trigger
+
+[33mcommit 5404a8e558965288df39d068c749ef68c1b05dcf[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:36:15 2021 +0200
+
+    Update test.yml
+    
+    change trigger for test action
+
+[33mcommit 15ec47414192158b150f896d5465dc17d30ad069[m
+Author: Felix Faassen <felix@publiccode.net>
+Date:   Fri Jun 18 15:32:19 2021 +0200
+
+    Add deploy badge
+    
+    Add deploy status badge for website deploy pass
+
+[33mcommit 8113694a4f2abec8cd032df3d88dd38aa5c2c048[m
+Merge: f393a3e cacf7fe
+Author: Ruben van der Linde <rubenvdlinde@gmail.com>
+Date:   Fri Jun 18 15:21:24 2021 +0200
+
+    Merge pull request #50 from demodam/websi

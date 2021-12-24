@@ -44,7 +44,7 @@ const IndexPage = ({ location }) => (
           <Box>
             <p>Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten. Op Demodam.nl kun je straks zien welke Common Ground componenten (bouwstenen) achter die diensten al klaar zijn en hoe ze met elkaar samenwerken. Gemeenten kunnen vervolgens besluiten om zo’n dienst, bijvoorbeeld een applicatie voor online geboorteaangifte, ook in te zetten voor hun inwoners. Ook is het mogelijk om verder te bouwen bovenop wat al beschikbaar is door zowel leveranciers als gemeenten.
             </p>
-            <p>Demodam wordt gemaakt en onderhouden door de Common Ground community, bestaande uit mensen en organisaties vanuit zowel de overheid als het bedrijfsleven. De Foundation for Public Code ziet erop toe dat alle partijen gelijkwaardig zijn. Iedereen is welkom om bij te dragen. 
+            <p>Demodam wordt gemaakt en onderhouden door de Common Ground community, bestaande uit mensen en organisaties vanuit zowel de overheid als het bedrijfsleven. De Foundation for Public Code ziet erop toe dat alle partijen gelijkwaardig zijn. Iedereen is welkom om bij te dragen.
             </p>
             <H2>Demodam.nl is tijdelijk niet beschikbaaar.</h2> 
             <p>

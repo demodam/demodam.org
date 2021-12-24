@@ -42,7 +42,7 @@ If core team members cannot reach consensus informally, the question at hand wil
    * Handling code of conduct violations
    * Oversee licensing and intellectual property changes
 * **Conflict resolution**
-   * Serve as an **escalation level** for the action groups 
+   * Serve as an **escalation level** for the action groups
    * Resolve escalated project decisions when a sub-team responsible is blocked
    * Resolve issues in development or conflicts between contributors
 * **Technical matters**
@@ -55,11 +55,11 @@ If core team members cannot reach consensus informally, the question at hand wil
 ### Team members
 The current core team members are:
 * [Edo Plantinga](https://www.linkedin.com/in/edoplantinga/)  (core team lead)
-* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#technical-action-team) lead)
-* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#communications-action-team) lead)
+* [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (also [Technical Action Team](https://demodam.org/en/contributing/) lead)
+* [Alba Roza](https://www.linkedin.com/in/albaroza) (also [Communications Action Team](https://demodam.org/en/contributing/) lead)
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * [Lazo Bozarof](https://www.linkedin.com/in/lazobozarov/)
-* Vacancy: [User Centricity](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#user-centricity-action-team) team lead
+* Vacancy: [User Centricity](https://demodam.org/en/contributing/) team lead
 
 ### Way of working
 The core team meets regularly. Their agenda includes review of the technical roadmap and issues that are at an impasse. The intention of the agenda is not to review or approve all patches. This is mainly being done through the process described in CONTRIBUTING.md. Meetings and their agenda will be announced on the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/demodam-discuss.lists.publiccode.net/) and on [Slack](https://samenorganiseren.slack.com/archives/C01S2QM81V4). The action items and agenda's of the core team can be found on the [core team project board](https://github.com/demodam/demodam.org/projects/2).
@@ -68,7 +68,7 @@ No individual or organization will employ a simple majority of the core team.
 
 ## Action teams
 
-The Demodam codebase forms action teams to solve specific tasks. These can make day-to-day decisions to move things forward, but cannot overrule decisions made by the core team. Each working or action group must be represented in the core teamch by at least one person. If a group cannot resolve an issue with consensus in the group, any participant of the group can raise the issue to the core team.
+The Demodam codebase forms action teams to solve specific tasks. These can make day-to-day decisions to move things forward, but cannot overrule decisions made by the core team. Each working or action group must be represented in the core team by at least one person. If a group cannot resolve an issue with consensus in the group, any participant of the group can raise the issue to the core team.
 
 ## Decision making process
 
