@@ -46,7 +46,7 @@ const IndexPage = ({ location }) => (
             </p>
             <p>Demodam wordt gemaakt en onderhouden door de Common Ground community, bestaande uit mensen en organisaties vanuit zowel de overheid als het bedrijfsleven. De Foundation for Public Code ziet erop toe dat alle partijen gelijkwaardig zijn. Iedereen is welkom om bij te dragen.
             </p>
-            <H2>Demodam.nl is tijdelijk niet beschikbaaar.</h2> 
+            <h2>Demodam.nl is tijdelijk niet beschikbaaar.</h2> 
             <p>
                 Wegens de log4j bug hebben we Demodam.nl tijdelijk offline gehaald. Gezien er ook een migratie op handen staat, zullen we dit hierin meenemen. Vanaf eind januari 2022 komt Demodam.nl weer in de lucht. Onze excuses voor het ongemak.   
             </p>
